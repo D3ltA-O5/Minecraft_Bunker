@@ -1,0 +1,142 @@
+[00:03:15] [User Authenticator #1/INFO]: UUID of player Risten_ is 5341304f-fa96-33c0-a94c-3da67dd751a9
+[00:03:17] [Server thread/INFO]: Risten_[/46.138.78.229:1285] logged in with entity id 544 at ([world]14.5, 76.0, 161.5)
+[00:03:17] [Server thread/INFO]: Risten_ joined the game
+[00:03:51] [User Authenticator #1/INFO]: UUID of player D3ltA_O5 is 59717844-61c0-34e7-8fe6-0b9b572ad884
+[00:03:51] [Server thread/INFO]: D3ltA_O5[/134.19.249.47:59498] logged in with entity id 660 at ([world]31.307658373570394, 88.0, 168.27073798965094)
+[00:03:51] [Craft Scheduler Thread - 382 - Essentials/WARN]: [Essentials] Plugin Essentials v2.20.1 generated an exception while executing task 38
+java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.util.ArrayList.addAll(ArrayList.java:753) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroups(PermissionsHandler.java:54) ~[EssentialsX-2.20.1.jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:62) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:56) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.lambda$onJoin$1(RoleSyncManager.java:129) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[00:03:51] [Server thread/INFO]: D3ltA_O5 joined the game
+[00:05:40] [Server thread/INFO]: Risten_ issued server command: /link
+[00:06:41] [Server thread/INFO]: Risten_ issued server command: /link
+[00:07:20] [Server thread/INFO]: Risten_ issued server command: /link
+[00:08:29] [Craft Scheduler Thread - 410 - Essentials/WARN]: [Essentials] Plugin Essentials v2.20.1 generated an exception while executing task 47
+java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.util.ArrayList.addAll(ArrayList.java:753) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroups(PermissionsHandler.java:54) ~[EssentialsX-2.20.1.jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:62) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:56) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.AccountLinkManager.lambda$registerAccount$7(AccountLinkManager.java:127) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[00:09:42] [Server thread/INFO]: Risten_ has made the advancement [Monster Hunter]
+[00:10:24] [Server thread/INFO]: Risten_ has made the advancement [Stone Age]
+[00:11:19] [Server thread/INFO]: D3ltA_O5 has made the advancement [Stone Age]
+[00:11:29] [Server thread/INFO]: Risten_ has made the advancement [Getting an Upgrade]
+[00:11:34] [Server thread/INFO]: D3ltA_O5 has made the advancement [Getting an Upgrade]
+[00:23:11] [Server thread/INFO]: D3ltA_O5 has made the advancement [Monster Hunter]
+[00:56:03] [User Authenticator #2/INFO]: UUID of player Ruslex is 03639768-d9f0-3b2a-a0ae-746379b8e091
+[00:56:03] [Server thread/INFO]: Ruslex[/134.19.249.47:53144] logged in with entity id 11063 at ([world]15.5, 77.0, 159.5)
+[00:56:03] [Server thread/INFO]: Ruslex joined the game
+[00:57:48] [Server thread/INFO]: Ruslex issued server command: /link 19zvfxlv
+[00:58:09] [Server thread/INFO]: Risten_ has made the advancement [Acquire Hardware]
+[00:58:28] [Server thread/INFO]: Risten_ has made the advancement [Isn't It Iron Pick]
+[00:58:41] [Craft Scheduler Thread - 717 - Essentials/WARN]: [Essentials] Plugin Essentials v2.20.1 generated an exception while executing task 63
+java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.util.ArrayList.addAll(ArrayList.java:753) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroups(PermissionsHandler.java:54) ~[EssentialsX-2.20.1.jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:62) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:56) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.AccountLinkManager.lambda$registerAccount$7(AccountLinkManager.java:127) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:05:09] [Server thread/INFO]: Ruslex has made the advancement [Monster Hunter]
+[01:09:54] [Server thread/INFO]: Ruslex has made the advancement [Stone Age]
+[01:10:07] [Server thread/INFO]: Ruslex has made the advancement [Getting an Upgrade]
+[01:13:37] [Server thread/INFO]: Ruslex has made the advancement [Isn't It Iron Pick]
+[01:15:54] [Server thread/INFO]: Ruslex has made the advancement [Sweet Dreams]
+[01:46:42] [Server thread/INFO]: D3ltA_O5 has made the advancement [Best Friends Forever]
+[01:54:08] [Server thread/INFO]: Risten_ issued server command: /kill
+[01:54:08] [Server thread/INFO]: [Essentials] Risten_ was denied access to command.
+[01:54:49] [Server thread/INFO]: [Essentials] FeedbackForwardingSender issued server command: /kill Risten
+[01:58:40] [Server thread/INFO]: D3ltA_O5 has made the advancement [Sweet Dreams]
+[01:58:45] [Server thread/INFO]: Risten_ has made the advancement [Sweet Dreams]
+[02:11:14] [Server thread/INFO]: [Essentials] FeedbackForwardingSender issued server command: /kill Risten
+[02:22:11] [Server thread/INFO]: Ruslex has made the advancement [Acquire Hardware]
+[02:28:34] [Server thread/INFO]: D3ltA_O5 has made the advancement [Diamonds!]
+[02:28:36] [Server thread/INFO]: D3ltA_O5 has made the advancement [Suit Up]
+[02:28:36] [Server thread/INFO]: D3ltA_O5 has made the advancement [Isn't It Iron Pick]
+[02:28:45] [Server thread/INFO]: Ruslex has made the advancement [Diamonds!]
+[02:41:15] [Async Chat Thread - #3/INFO]: [Not Secure] <Ruslex> -344 97
+[02:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5106ms or 102 ticks behind
+[02:44:40] [Server thread/INFO]: [Essentials] FeedbackForwardingSender issued server command: /tp D3ltA_O5 -199 51 842
+[02:45:45] [Server thread/INFO]: D3ltA_O5 lost connection: Disconnected
+[02:45:45] [Server thread/INFO]: D3ltA_O5 left the game
+[02:47:08] [Server thread/INFO]: Ruslex has made the advancement [Suit Up]
+[02:49:24] [User Authenticator #3/INFO]: UUID of player D3ltA_O5 is 59717844-61c0-34e7-8fe6-0b9b572ad884
+[02:49:25] [Server thread/INFO]: D3ltA_O5[/134.19.249.47:1265] logged in with entity id 45773 at ([world]-197.30000001192093, 51.0, 841.3000000119209)
+[02:49:25] [Craft Scheduler Thread - 1395 - Essentials/WARN]: [Essentials] Plugin Essentials v2.20.1 generated an exception while executing task 93
+java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.util.ArrayList.addAll(ArrayList.java:753) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroups(PermissionsHandler.java:54) ~[EssentialsX-2.20.1.jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:62) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:56) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.lambda$onJoin$1(RoleSyncManager.java:129) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[02:49:25] [Server thread/INFO]: D3ltA_O5 joined the game
+[02:50:08] [Server thread/INFO]: [Essentials] FeedbackForwardingSender issued server command: /tp D3ltA_O5 80 71 365
+[02:53:48] [Server thread/INFO]: Risten_ has made the advancement [Suit Up]
+[02:53:57] [Server thread/INFO]: Risten_ has made the advancement [Diamonds!]
+[03:00:01] [Server thread/INFO]: Ruslex lost connection: Disconnected
+[03:00:02] [Server thread/INFO]: Ruslex left the game
+[03:00:02] [Server thread/INFO]: D3ltA_O5 lost connection: Disconnected
+[03:00:02] [Server thread/INFO]: D3ltA_O5 left the game
+[03:00:22] [User Authenticator #4/INFO]: UUID of player Ruslex is 03639768-d9f0-3b2a-a0ae-746379b8e091
+[03:00:23] [Server thread/INFO]: Ruslex[/134.19.249.47:1357] logged in with entity id 48313 at ([world]168.49858964644162, 21.0, 449.13839873348263)
+[03:00:23] [Server thread/INFO]: Ruslex joined the game
+[03:00:23] [Craft Scheduler Thread - 1461 - Essentials/WARN]: [Essentials] Plugin Essentials v2.20.1 generated an exception while executing task 104
+java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.util.ArrayList.addAll(ArrayList.java:753) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroups(PermissionsHandler.java:54) ~[EssentialsX-2.20.1.jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:62) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:56) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.lambda$onJoin$1(RoleSyncManager.java:129) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[03:00:59] [User Authenticator #4/INFO]: UUID of player D3ltA_O5 is 59717844-61c0-34e7-8fe6-0b9b572ad884
+[03:01:01] [Server thread/INFO]: D3ltA_O5[/134.19.249.47:1399] logged in with entity id 48453 at ([world]37.898592852454556, 63.0, 370.01603441053135)
+[03:01:01] [Server thread/WARN]: Ruslex moved too quickly! -1.4753653887716496,0.4445024632478116,-10.162237885184027
+[03:01:01] [Craft Scheduler Thread - 1464 - Essentials/WARN]: [Essentials] Plugin Essentials v2.20.1 generated an exception while executing task 109
+java.lang.NullPointerException: Cannot invoke "java.util.Collection.toArray()" because "c" is null
+	at java.util.ArrayList.addAll(ArrayList.java:753) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroups(PermissionsHandler.java:54) ~[EssentialsX-2.20.1.jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:62) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.sync(RoleSyncManager.java:56) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at net.essentialsx.discordlink.rolesync.RoleSyncManager.lambda$onJoin$1(RoleSyncManager.java:129) ~[EssentialsXDiscordLink-2.20.1 (1).jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[03:01:01] [Server thread/INFO]: D3ltA_O5 joined the game
+[03:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
+[03:02:23] [Server thread/WARN]: Risten_ moved too quickly! 6.738536815548628,-7.233632006042477,3.2332022826071807
+[03:05:56] [Server thread/INFO]: Ruslex has made the advancement [Not Today, Thank You]

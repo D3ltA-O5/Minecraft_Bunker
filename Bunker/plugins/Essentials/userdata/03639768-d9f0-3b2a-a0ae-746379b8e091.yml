@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 134.19.249.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734825601688
+  login: 1734825623474
+money: '0'
+last-account-name: Ruslex
+logoutlocation:
+  world: 5fd76ba8-72af-498c-ad9e-b7fcfd1fd1fc
+  world-name: world
+  x: 168.49858964644162
+  y: 21.0
+  z: 449.13839873348263
+  yaw: 29.86572265625
+  pitch: -89.8499984741211
