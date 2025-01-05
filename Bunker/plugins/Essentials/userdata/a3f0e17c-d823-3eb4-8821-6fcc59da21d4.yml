@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.23.111.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736033242355
+  login: 1736022970038
+money: '0'
+last-account-name: oorafrt
+logoutlocation:
+  world: 5fd76ba8-72af-498c-ad9e-b7fcfd1fd1fc
+  world-name: world
+  x: 90.11550636187953
+  y: 125.0
+  z: 362.9942093624595
+  yaw: 114.906494140625
+  pitch: 24.0002384185791

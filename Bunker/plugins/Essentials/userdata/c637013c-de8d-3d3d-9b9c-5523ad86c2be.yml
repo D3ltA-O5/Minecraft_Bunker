@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.252.88.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735646963518
+  login: 1735645292344
+money: '0'
+last-account-name: BroTitan25
+logoutlocation:
+  world: 5fd76ba8-72af-498c-ad9e-b7fcfd1fd1fc
+  world-name: world
+  x: 8.038632766205538
+  y: 120.0625
+  z: 445.30143810456036
+  yaw: 74.9609375
+  pitch: 19.050037384033203

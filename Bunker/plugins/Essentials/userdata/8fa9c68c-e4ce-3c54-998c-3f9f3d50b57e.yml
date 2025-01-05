@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.138.77.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736002584923
+  login: 1736002554452
+money: '0'
+last-account-name: Risten
+logoutlocation:
+  world: 5fd76ba8-72af-498c-ad9e-b7fcfd1fd1fc
+  world-name: world
+  x: 8.752941274544455
+  y: 72.0
+  z: 169.08993583425453
+  yaw: -29.24977684020996
+  pitch: 10.649998664855957
